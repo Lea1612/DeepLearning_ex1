@@ -1,0 +1,7 @@
+1. Using the multi layer perceptron, we get an accuracy of 0.86 but with the log-linear an accuracy of 0.86 also.
+So, we can't get a better accuracy with the multi layer perceptron.
+
+2. Our best accuracy with the log-linear model with these features it's 0.7 (num_iterations = 100; learning_rate = 0.0015)
+Our best accuracy with the multi layer perceptron model with these features it's 0.69 (num_iterations = 100; learning_rate = 0.0015)
+
+3. Our MLP can learn the XOR function. It takes approximately 60-90 iterations to correctly solve xor.
